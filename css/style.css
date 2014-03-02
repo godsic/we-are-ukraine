@@ -1,0 +1,16 @@
+body { 
+	font:18px sans-serif; 
+	*font-size:small; 
+	*font:x-small; 
+	line-height:1.22; 
+	background-image:url('../images/background.png');
+	background-repeat:no-repeat;
+	background-origin:content-box;
+	background-position:center center;
+}
+div {
+	color:rgb(60,60,60);
+}
+table { font-size:inherit; font:100%; }
+select, input, textarea { font:99% sans-serif; }
+html { -webkit-font-smoothing: antialiased; }
